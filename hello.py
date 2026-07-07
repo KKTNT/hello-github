@@ -3,5 +3,5 @@ def greet(name):
     return f"Hello, {name}! 👋"
 
 if __name__ == "__main__":
-    print(greet("GitHub"))
+    print(greet("KKTNT"))
     print("这是我用 CodeM 推到 GitHub 的第一个文件 🎉")
